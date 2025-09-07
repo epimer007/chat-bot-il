@@ -1,0 +1,44 @@
+{
+  "ironLadyFAQ": {
+    "programs": [
+      {
+        "question": "What programs does Iron Lady offer?",
+        "answer": "Iron Lady offers several high-impact leadership programs for women, including the Leadership Essentials Program (typically 4 weeks), the 100 Board Members Program (6 months), the 1-Crore Income Club, and specialized Masterclasses and Workshops designed to build strategic leadership skills and accelerate career growth."
+      },
+      {
+        "question": "What is the program duration?",
+        "answer": "Program durations vary: Leadership Essentials Program is about 4 weeks, 100 Board Members Program runs for 6 months, and Masterclasses/Workshops vary from 1 to 3 days."
+      },
+      {
+        "question": "Is the program online or offline?",
+        "answer": "Most Iron Lady programs are primarily delivered online through live interactive sessions on Zoom, app-based modules, and community engagement, with some occasional offline or hybrid events."
+      },
+      {
+        "question": "Are certificates provided?",
+        "answer": "Yes, certificates are provided upon successful completion of select programs. For example, the Leadership Essentials Program offers certification in collaboration with Tata Institute of Social Sciences for certain batches."
+      },
+      {
+        "question": "Who are the mentors/coaches?",
+        "answer": "Mentors include founders Suvarna Hegde (CEO) and Rajesh Bhat (Director), alongside experienced industry leaders such as Simon Newman (Ex-CEO Aviva Singapore), Sridhar Sambandam (Ex-CEO Bajaj Auto), Anju Jain and other guest mentors and business coaches."
+      }
+    ],
+    "additionalInfo": [
+      {
+        "question": "What is the cost of the programs?",
+        "answer": "The Leadership Essentials Program costs approximately INR 35,000 with payment plans available. Costs for other programs like the 100 Board Members is INR 75,000 and for Masterclasses it may vary."
+      },
+      {
+        "question": "What are the prerequisites?",
+        "answer": "Most programs require 2 or more years of professional experience and an aspiration or current role in leadership. Basic proficiency in English and commitment to the program duration are important."
+      },
+      {
+        "question": "How do I apply?",
+        "answer": "Applications are completed online via the Iron Lady website, with some programs requiring submission of resumes, participation in interview calls, and payment of enrollment fees."
+      },
+      {
+        "question": "What support is provided?",
+        "answer": "Participants receive live Q&A sessions, mentorship access, peer networking groups, a resource-rich learning platform, and lifetime community membership for continued support."
+      }
+    ]
+  }
+}
