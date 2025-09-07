@@ -17,8 +17,8 @@ An AI-powered chatbot built with **Next.js**, **TypeScript**, and **shadcn/ui**,
 ## ⚙️ Installation & Running  
 
  1. Clone the Repository  :
-    git clone https://github.com/epimer007/chat-bot-il.git
-    cd iron-lady-chatbot
+   - git clone https://github.com/epimer007/chat-bot-il.git
+   - cd iron-lady-chatbot
 
 
 2. Install Dependencies :
